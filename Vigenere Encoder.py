@@ -1,6 +1,7 @@
 yee = True
 while yee:
     print("\n")
+    print("No capitals! No spaces!")
     keyword = input("Enter keyword: ")
     encode = input("Enter stuff to encode: ")
     alphabet=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
